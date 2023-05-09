@@ -1,15 +1,4 @@
-# mermaid diagram
-..first try
 
-```mermaid
-flowchart LR;
-setup dev(Setup)
-participant browser
-participant server
-A [browser]--> B [server:] 
-C [GET https://studies.cs.helsinki.fi/exampleapp/notes]
-    
-```
 
 # quiz-game
 
